@@ -254,11 +254,17 @@ ul li span {
     font-family: Sora;
     color: #fff;
     line-height: 10px;
-    background: #000;
+    background: #0000;
     padding: 10px;
     border-radius: 13px;
     animation-delay: 6s;
-    box-shadow: 4px 4px 4px inset #676666;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: block;
+    width: 100%;
+    height: 100%;
+    text-shadow: 2px 3px 7px black;
     
     
 }
